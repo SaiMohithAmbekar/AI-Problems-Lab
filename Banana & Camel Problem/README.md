@@ -27,5 +27,5 @@
 
 <p> Now, for the last part, P3, the Camel only has to move forward. He has already covered 533 (200+333) out of 1000 km in Parts P1 & P2. Now he has to cover only 466 km and he has 1000 bananas.</p>
 
-<p>He will eat up 466 bananas on the way forward, and at point B the Camel will be left with only 533 Bananas.</p>
+<p>So Finally, He will eat up 466 bananas on the way forward, and at point B the Camel will be left with only 533 Bananas.</p>
 
