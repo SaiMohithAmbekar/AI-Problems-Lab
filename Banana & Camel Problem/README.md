@@ -2,9 +2,7 @@
 <p>(Camel Banana problem) A person has 3000 bananas and a camel. The person wants to transport the maximum number of bananas to a destination which is 1000 KMs away, using only the camel as a mode of transportation. The camel cannot carry more than 1000 bananas at a time and eats a banana every km it travels. What is the maximum number of bananas that can be transferred to the destination using only camel (no other mode of transportation is allowed).</p>
 
 <h2>Solution & Procedure:</h2>
-<p>First of all, the Brute-Force approach does not work. if Camel start by picking up the 1000 bananas and try to reach point B, then Camel will eat up all the 1000 bananas on the way and there will be no banana left for the Camel to return to point A. So we have to take an approach that Camel drop the bananas in between and then return to point A, to pick bananas again. Since there are 3000 bananas and camel can only carry 1000 bananas, Camel will have to make 3 trips to carry them all to any point in between.
-  
-<p>When bananas are reduced to 2000 then Camel can shift them to another point in 2 trips and when the number of bananas left are</p>
+<p>First of all, the Brute-Force approach does not work. if Camel start by picking up the 1000 bananas and try to reach point B, then Camel will eat up all the 1000 bananas on the way and there will be no banana left for the Camel to return to point A. So we have to take an approach that Camel drop the bananas in between and then return to point A, to pick bananas again. Since there are 3000 bananas and camel can only carry 1000 bananas, Camel will have to make 3 trips to carry them all to any point in between. When bananas are reduced to 2000 then Camel can shift them to another point in 2 trips.</p>
 
 <p>In the first part, P1, to shift the bananas by 1Km Camel will have to:</p>
 
