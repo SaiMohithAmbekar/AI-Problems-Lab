@@ -23,9 +23,10 @@
   <li>Pick up the next 1000 bananas and move forward - Will eat up 1 banana in the way forward. Note: After point 3 the camel does not need to return to the starting point of P2.</li>
   <li>So to shift 2000 bananas by 1km Camel will eat up 3 bananas.</li>
   <li>After moving to 333 km the camel would have eaten up 1000 bananas and is now left with the last 1000 bananas.</li>
-  <li>The camel will actually be able to cover 333.33 km. I will ignore the decimal part because it will not make a difference in this example. Hence the length of part P2 is 333 Km.</li>
+  <li>The camel will actually be able to cover 333.33 km. I will ignore the decimal part because it will not make a difference in this example. Hence the length of part P2 is 333 Km.</li></ol>
 
 <p> Now, for the last part, P3, the Camel only has to move forward. He has already covered 533 (200+333) out of 1000 km in Parts P1 & P2. Now he has to cover only 466 km and he has 1000 bananas.</p>
 
-<p>So Finally, He will eat up 466 bananas on the way forward, and at point B the Camel will be left with only 533 Bananas.</p>
+<ul>
+  <li>So Finally, He will eat up 466 bananas on the way forward, and at point B the Camel will be left with only 533 Bananas.</li></ul>
 
